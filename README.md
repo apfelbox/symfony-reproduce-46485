@@ -3,8 +3,8 @@ Reproducer for #46485
 
 This is a reproducer for [Symfony Issue #46485](https://github.com/symfony/symfony/issues/46485).
 
-1. Installation
----------------
+First: Installation
+-------------------
 
 ```bash
 composer install
@@ -13,8 +13,8 @@ composer install
 Then configure your DB credentials.
 
 
-2. Reproduce
-------------
+Then: Reproduce
+---------------
 
 Start a message consumer
 
